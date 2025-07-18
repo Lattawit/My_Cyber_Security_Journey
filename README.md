@@ -19,6 +19,7 @@ Hello! My name is **Lattawit Sirisawat**, currently a second-year student majori
 | Date       | TryHackMe Progress           | Python Progress             | Notes/Reflections          |
 |------------|-----------------------------|-----------------------------|----------------------------|
 | 2025-07-15 | Started Pre Security course | Reviewed syntax basics      | Excited to begin journey!  |
+| 2025-07-18 | Learned Linux Fundamental   | Reviewed syntax basics      | Excited to begin journey!  |
 
 ---
 
