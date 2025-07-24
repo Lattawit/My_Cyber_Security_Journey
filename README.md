@@ -23,7 +23,7 @@ Hello! My name is **Lattawit Sirisawat**, currently a second-year student majori
 | 2025-07-19 | Completed Pre Security course   | Reviewed syntax basics      | Excited to begin journey!  |
 | 2025-07-20 | Started Cyber Security 101 course   | Reviewed syntax basics      | Excited to begin journey!  |
 | 2025-07-23 | Learned Window Powershell Fundamental   | Reviewed syntax basics      | Excited to begin journey!  |
-| 2025-07-23 | Linux Shell Fundamental   | Reviewed syntax basics      | Excited to begin journey!  |
+| 2025-07-23 | Learned Linux Shell Fundamental   | Reviewed syntax basics      | Excited to begin journey!  |
 
 ---
 
