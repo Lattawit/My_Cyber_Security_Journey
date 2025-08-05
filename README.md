@@ -25,6 +25,7 @@ Hello! My name is **Lattawit Sirisawat**, currently a second-year student majori
 | 2025-07-23 | Learned Window Powershell Fundamental   | Reviewed syntax basics      | Excited to begin journey!  |
 | 2025-07-23 | Learned Linux Shell Fundamental   | Reviewed syntax basics      | Excited to begin journey!  |
 | 2025-07-27 | Learned Wireshark Basics   | Reviewed syntax basics      | Excited to begin journey!  |
+| 2025-08-05 | Learned Tcpdump Basics   | Reviewed syntax basics      | Excited to begin journey!  |
 ---
 
 ## 🚀 Career Ambitions
